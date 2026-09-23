@@ -1,0 +1,12 @@
+{
+  "name": "circuit-breaker-express",
+  "version": "1.0.0",
+  "description": "Zero-dependency resilience circuit breaker pattern for Node.js APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
